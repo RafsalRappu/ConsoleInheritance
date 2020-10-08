@@ -1,0 +1,7 @@
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\bin\Debug\ConsoleInheritance.exe.config
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\bin\Debug\ConsoleInheritance.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\bin\Debug\ConsoleInheritance.pdb
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\obj\Debug\ConsoleInheritance.csprojAssemblyReference.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\obj\Debug\ConsoleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\obj\Debug\ConsoleInheritance.exe
+C:\Users\AjuRafsal\Desktop\VisualStudioProject\ConsoleInheritance\ConsoleInheritance\obj\Debug\ConsoleInheritance.pdb
